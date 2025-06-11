@@ -77,3 +77,15 @@ Ek Özellikler
 
 4)H2 kullanıldığı için veri bellekte tutulur (her çalıştırmada sıfırlanır)
 
+## DEPLOY İŞlEMİ
+![deploy](https://github.com/user-attachments/assets/fee36962-afd4-4070-beb3-bbae145646c6)
+
+1) deploy postman test
+![deploypostmantest](https://github.com/user-attachments/assets/2ac4b037-3ca7-4e9b-8ba2-e09ad59c7251)
+
+2)Ürün eklenmiyor
+![uruneklenmiyor](https://github.com/user-attachments/assets/1e483748-ff63-4beb-8590-ac1099b89f37)
+
+
+
+
